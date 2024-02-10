@@ -9,6 +9,13 @@ Welcome to the Vision Transformers (ViT) Exploration repository! This project is
 
 The transformer architecture, initially revolutionizing Natural Language Processing (NLP) with its self-attention mechanism, has made its way into Computer Vision. The pivotal moment came with Dosovitskiy et al.'s presentation at ICLR 2021, introducing the Vision Transformer (ViT) for image recognition at scale, proposing a novel approach where "An Image is Worth 16x16 Words."
 
+## Reports
+
+For detailed insights and methodologies, refer to our comprehensive reports:
+
+- [MNIST/CIFAR Report](./First Exploration/first_exploration_report.pdf)
+- [Ovarian Cancer Classification Report](./Classification task/Classification_ViT_report.pdf)
+
 ## Objectives
 
 - **ViT Implementation**: From scratch implementation of the ViT architecture to train on MNIST and CIFAR10, benchmarking against the traditional ResNet model.
