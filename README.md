@@ -13,8 +13,8 @@ The transformer architecture, initially revolutionizing Natural Language Process
 
 For detailed insights and methodologies, refer to our comprehensive reports:
 
-- [MNIST/CIFAR Report](./First Exploration/first_exploration_report.pdf)
-- [Ovarian Cancer Classification Report](./Classification task/Classification_ViT_report.pdf)
+- [MNIST/CIFAR Report](https://github.com/LaFerraille/Vision-Transformers/blob/main/First%20exploration/first_exploration_report.pdf)
+- [Ovarian Cancer Classification Report](https://github.com/LaFerraille/Vision-Transformers/blob/main/Classification%20task/Classification_ViT_report.pdf)
 
 ## Objectives
 
